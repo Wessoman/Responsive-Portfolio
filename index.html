@@ -27,7 +27,7 @@
     <section class="main-section">
       <h1>About Me</h1>
 
-      <img src="assets/images/something.jpg" class="auth-image" alt="Your Name">
+      <img src="assets/images/Something.jpg" class="auth-image" alt="Your Name">
       <p>Hello, my name is Antony! I am a handsome gentleman in his mid forties that is attempting to learn how to code. It has been while since I have attempted to code in HTML, the last time I tried HTML was still in 2.0 and everybody was going ga ga over Macromedia Dreamweaver. Basically, I'm old! But it doesn't mean that I am not young at heart.</p>
       <p>Anyhoo, I am learning a lot from this course and I find the instructors are very imformative. In doing this assignment, I have learned a lot about the changes that have been implented in HTML since the days when I played with it. For example, I had no idea about the nav and article tags. And my girlfriend shamed me for attempting to use inline styling. How embarassing!</p>
       <p>But now, thanks to this bootcamp, I am no longer so clueless. With my newfound knowledge, I hope to land a sweet gig during my twighlight years coding and devloping games, as well as applying the concepts of gameifaction to many aspects in our daily lives. I strive to one day run a company that produces games designed for people that most of the big gaming companies are overlooking, as well as exploring new facets in software development.</p>
